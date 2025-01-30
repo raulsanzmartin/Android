@@ -10,7 +10,4 @@ This folder contains exercises showcasing different **data persistence technique
 4. **File Storage** – Writing and reading data from internal and external storage.
 5. **Content Providers** – Sharing data between apps using the ContentResolver API.
 
-## 🔹 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/raulsanzmartin/Android-Studio-Examples.git
+
