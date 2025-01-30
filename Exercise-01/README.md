@@ -10,8 +10,5 @@ This folder contains **7 short exercises** demonstrating different communication
  **Web Requests** – Performing simple API calls.
 
 
-## 🔹 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Android-Studio-Examples.git
+
 
